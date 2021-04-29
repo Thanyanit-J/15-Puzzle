@@ -1,6 +1,6 @@
 # 15-Puzzle
 Simple 15-Puzzle game written in C++ language. Control using arrow keys.<br>
-This might not work on every machine though because it's assumed the arrow keys will send a specific input (which works on my machine).<br>
+This might not work on every machine though because it's assumed the arrow keys will send a specific stream of input.<br>
 If the arrow keys send a different sequence, it should not work.
 
 Note:<br>
